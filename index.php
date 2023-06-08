@@ -67,7 +67,7 @@
 
        
 
-        var phone_number = '1-800-656-841 (USA-Toll-Free)';
+        var phone_number = '1-800-656-8418 (USA-Toll-Free)';
 
         var phone_number2 = '1-800-656-8418';
 
